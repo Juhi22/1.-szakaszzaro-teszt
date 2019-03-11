@@ -1,4 +1,941 @@
-2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
+ 1103  git rebase dani/1 
+ 1104  git status
+ 1105  code .
+ 1106  git checkout dani/1 
+ 1107  code .
+ 1108  git branch
+ 1109  code .
+ 1110  git add .
+ 1111  git commit -m "assa"
+ 1112  git checkout dev 
+ 1113  code .
+ 1114  git add. 
+ 1115  git add .
+ 1116  git commit -m "dasdf"
+ 1117  git checkout dani/1 
+ 1118  git rebase dev 
+ 1119  code .
+ 1120  git rebase --continue 
+ 1121  git add .
+ 1122  git rebase --continue 
+ 1123  clear
+ 1124  cd ..
+ 1125  cd FCB/
+ 1126  cherry-pick 
+ 1127  git branch
+ 1128  git cherry-pick 32d69c8
+ 1129  git status
+ 1130  git commit -m asd
+ 1131  git cherry-pick 32d69c8
+ 1132  git cherry-pick 3113126aa7320f711877f5233bc21548cf3b90a0
+ 1133  git status
+ 1134  git add .
+ 1135  git cherry-pick 3113126aa7320f711877f5233bc21548cf3b90a0
+ 1136  git commit - m "sadasads"
+ 1137  git commit -m "sadasads"
+ 1138  git cherry-pick 3113126aa7320f711877f5233bc21548cf3b90a0
+ 1139  cd ..
+ 1140  cd GYAK/
+ 1141  git log
+ 1142  git status
+ 1143  git cherry-quick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1144  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1145  code .
+ 1146  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1147  code .
+ 1148  git add .
+ 1149  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1150  git status
+ 1151  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1152  code .
+ 1153  git commit -m qwerty
+ 1154  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1155  git checkout dev 
+ 1156  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1157  git status 
+ 1158  git add .
+ 1159  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1160  git status 
+ 1161  git commit -m asd
+ 1162  git checkout dev 
+ 1163  git cherry-pick 5e39f37e3e7aa3f7ad8186e9dec236e37a0b3682
+ 1164  cd ..
+ 1165  cd traffic\(sandbox\)/
+ 1166  code .
+ 1167  cd ..
+ 1168  cd Traffic/
+ 1169  git status
+ 1170  git add .
+ 1171  it commit -m "0roadPred"
+ 1172  git commit -m "0roadPred"
+ 1173  git push
+ 1174  git checkout dev 
+ 1175  git merge dani/1 
+ 1176  git status
+ 1177  git push
+ 1178  node generateArray.js 
+ 1179  git checkout dani/1 
+ 1180  git add .
+ 1181  git commit -m "P00P"
+ 1182  git push
+ 1183  git checkout dev 
+ 1184  git status
+ 1185  git push
+ 1186  git merge dani/1 
+ 1187  git status
+ 1188  git push
+ 1189  node lights\ \(in\ progress\)/light1.js 
+ 1190  clear
+ 1191  cd ..
+ 1192  code traffic\(sandbox\)/
+ 1193  cd Traffic/
+ 1194  git status
+ 1195  git checkout dani/1 
+ 1196  git add .
+ 1197  git commit -m "ligthsInPlace"
+ 1198  git checkout dev 
+ 1199  git merge dani/1 
+ 1200  git status
+ 1201  git push
+ 1202  node keypress
+ 1203  node generateArray.js 
+ 1204  node keypress.js 
+ 1205  node generateArray.js 
+ 1206  cd Traffic/
+ 1207  code .
+ 1208  ssh-add ~/SSHKEY/key
+ 1209  git status
+ 1210  git pull
+ 1211  node generateArray.js 
+ 1212  clear
+ 1213  node generateArray.js 
+ 1214  npm install keypress
+ 1215  cd ..
+ 1216  code traffic\(sandbox\)/
+ 1217  cd traffic\(sandbox\)/
+ 1218  npm init
+ 1219  npm install keypress
+ 1220  node generateArray.js 
+ 1221  ssh-add ~/SSHKEY/key
+ 1222  cd Traffic/
+ 1223  git status
+ 1224  code .
+ 1225  code Traffic/
+ 1226  cd traffic\(sandbox\)/
+ 1227  node generateArray.js 
+ 1228  clear
+ 1229  node generateArray.js 
+ 1230  clear
+ 1231  node generateArray.js 
+ 1232  clear
+ 1233  node generateArray.js 
+ 1234  clear
+ 1235  node generateArray.js 
+ 1236  cd Traffic
+ 1237  ssh-add ~/SSHKEY/key
+ 1238  git status
+ 1239  git checkout dani/1 
+ 1240  git add .
+ 1241  git commit -m "controll + main"
+ 1242  git push
+ 1243  git checkout dev 
+ 1244  git merge dani/1 
+ 1245  git status
+ 1246  git push
+ 1247  node main.js 
+ 1248  clear
+ 1249  node main.js 
+ 1250  clear
+ 1251  node main.js 
+ 1252  node generateArray.js 
+ 1253  node main.js 
+ 1254  cd Traffic/
+ 1255  git checkout dani/1 
+ 1256  git add .
+ 1257  git commit -m "controll + main"
+ 1258  git push
+ 1259  git checkout dev 
+ 1260  git push
+ 1261  git merge dani/1 
+ 1262  git push
+ 1263  ssh-add ~/SSHKEY/key
+ 1264  clear
+ 1265  cd Traffic/
+ 1266  node main.js
+ 1267  clear
+ 1268  node main.js
+ 1269  cd Traffic/
+ 1270  node main.js
+ 1271  clear
+ 1272  node main.js
+ 1273  clear
+ 1274  node main.js
+ 1275  clear
+ 1276  node main.js
+ 1277  cd Traffic/
+ 1278  node main.js
+ 1279  clear
+ 1280  node main.js
+ 1281  clear
+ 1282  node main.js
+ 1283  git status
+ 1284  git pull
+ 1285  git status
+ 1286  git pull
+ 1287  node main.js
+ 1288  clear
+ 1289  git pull
+ 1290  node main.js 
+ 1291  cd ..
+ 1292  code traffic\(sandbox\)/
+ 1293  clear
+ 1294  cd Traffic/
+ 1295  node main.js 
+ 1296  git status
+ 1297  git checkout 
+ 1298  git pull
+ 1299  clear
+ 1300  node main.js 
+ 1301  clear
+ 1302  node main.js 
+ 1303  clear
+ 1304  node main.js 
+ 1305  cd Traffic/
+ 1306  git status
+ 1307  node main.js 
+ 1308  node asdas.js 
+ 1309  node main.js 
+ 1310  cd Traffic/
+ 1311  git checkout dani/1
+ 1312  git add .
+ 1313  git commit -m "newSkin"
+ 1314  git status
+ 1315  git pull
+ 1316  git push
+ 1317  git status
+ 1318  git checkout dani/1 
+ 1319  git merge dev 
+ 1320  git push
+ 1321  git status
+ 1322  git merge dev
+ 1323  git checkout dev 
+ 1324  node main.js
+ 1325  clear
+ 1326  node main.js
+ 1327  clear
+ 1328  cd ..
+ 1329  code traffic\(sandbox\)/
+ 1330  cd Traffic/
+ 1331  ssh-add ~/SSHKEY/key
+ 1332  git pull
+ 1333  ssh-add ~/SSHKEY/key
+ 1334  git status
+ 1335  git pull
+ 1336  ssh-add ~/SSHKEY/key
+ 1337  git pull
+ 1338  cd ..
+ 1339  code traffic\(sandbox\)/
+ 1340  cd Traffic/
+ 1341  node main.js 
+ 1342  cd Traffic/
+ 1343  git checkout dani/1 
+ 1344  git add .
+ 1345  git commit -m "SaturdayNight"
+ 1346  git checkout dani/1 
+ 1347  git checkout dev 
+ 1348  git checkout dani/1 
+ 1349  git merge dev
+ 1350  git push
+ 1351  node table.js 
+ 1352  clear
+ 1353  node main.js 
+ 1354  cd Traffic/
+ 1355  node main.js 
+ 1356  cd Traffic/
+ 1357  node main.js 
+ 1358  ssh-add ~/SSHKEY/key
+ 1359  cd Traffic/
+ 1360  git status
+ 1361  git add 
+ 1362  git commit -m "randomcar"
+ 1363  git push
+ 1364  git checkout dev 
+ 1365  git pull
+ 1366  git checkout dani/1 
+ 1367  code .
+ 1368  node main.js 
+ 1369  clear
+ 1370  node main.js 
+ 1371  cd Traffic/
+ 1372  node main.js 
+ 1373  clear
+ 1374  node main.js 
+ 1375  clear
+ 1376  node main.js 
+ 1377  git checkout dani/1 
+ 1378  git add .
+ 1379  git commit -m "5secRandomCar"
+ 1380  git push 
+ 1381  git checkout dev 
+ 1382  git merge dani/1 
+ 1383  git push
+ 1384  git checkout dani/1 
+ 1385  clear
+ 1386  node main.js 
+ 1387  node main.js 
+ 1388  cd Traffic/
+ 1389  node main.js 
+ 1390  cd Traffic/
+ 1391  git status
+ 1392  node main.js 
+ 1393  clear
+ 1394  node main.js 
+ 1395  ssh-add ~/SSHKEY/key
+ 1396  cd Traffic/
+ 1397  node main.js 
+ 1398  cd Traffic/
+ 1399  node main.js 
+ 1400  ssh-add ~/SSHKEY/key
+ 1401  git status
+ 1402  git add .
+ 1403  git commit -m "littleChanges"
+ 1404  git push
+ 1405  git checkout dev 
+ 1406  git pull
+ 1407  code .
+ 1408  node main.js 
+ 1409  git checkout dani/1 
+ 1410  git add .
+ 1411  git commit -m "moveFunction"
+ 1412  git checkout dani/1 
+ 1413  clear
+ 1414  node main.js 
+ 1415  git checkout dev 
+ 1416  git status
+ 1417  git add .
+ 1418  git commit -m "moveFunc"
+ 1419  git checkout dani/1 
+ 1420  node main.js 
+ 1421  git checkout dev
+ 1422  cd Traffic/
+ 1423  git checkout dev
+ 1424  git push
+ 1425  cd Downloads/
+ 1426  ls
+ 1427  cd Traffic/
+ 1428  git status
+ 1429  git checkout dani/1 
+ 1430  git merge dev
+ 1431  git status
+ 1432  code .
+ 1433  git merge dev
+ 1434  git status
+ 1435  git add .
+ 1436  git commit -m "nothingSpecial"
+ 1437  git merge dev 
+ 1438  node main.js 
+ 1439  cd Traffic/
+ 1440  node main.js 
+ 1441  cd Traffic/
+ 1442  git checkout dani/1 
+ 1443  git add .
+ 1444  git commit -m "move?!"
+ 1445  git push
+ 1446  ssh-add ~/SSHKEY/key
+ 1447  git push
+ 1448  node main.js 
+ 1449  clear
+ 1450  node main.js 
+ 1451  clear
+ 1452  node main.js 
+ 1453  cd Traffic/
+ 1454  node main.js 
+ 1455  git add .
+ 1456  git commit -m "moveThemAll"
+ 1457  git push
+ 1458  ssh-add ~/SSHKEY/key
+ 1459  cd Traffic/
+ 1460  node main.js 
+ 1461  git status
+ 1462  git add .
+ 1463  git commit -m "iránybaRakva"
+ 1464  git checkout dev 
+ 1465  git merge dani/1 
+ 1466  git status
+ 1467  git push
+ 1468  git checkout dani/1 
+ 1469  git status
+ 1470  node main.js 
+ 1471  cd Traffic/
+ 1472  node main.js 
+ 1473  clear
+ 1474  node main.js 
+ 1475  node v
+ 1476  noce -v
+ 1477  node main.js 
+ 1478  clear
+ 1479  node main.js 
+ 1480  clear
+ 1481  node main.js 
+ 1482  git status
+ 1483  node main.js 
+ 1484  git status
+ 1485  git add .
+ 1486  git commit -m "slice"
+ 1487  git push
+ 1488  git checkout dev 
+ 1489  git merge dani/1 
+ 1490  git push
+ 1491  node main.js 
+ 1492  cd Traffic/
+ 1493  git status
+ 1494  git add .7
+ 1495  git add .
+ 1496  git commit -m "score"
+ 1497  git push
+ 1498  git checkout dani/1 
+ 1499  git merge dev 
+ 1500  git status
+ 1501  node main.js 
+ 1502  ssh-add ~/SSHKEY/key
+ 1503  cd Traffic/
+ 1504  node main.js 
+ 1505  git status
+ 1506  node main.js 
+ 1507  cd Traffic/
+ 1508  git status
+ 1509  git add .
+ 1510  git commit -m "frontRequired"
+ 1511  git status
+ 1512  git checkout dev 
+ 1513  git merge dani/1 
+ 1514  git push
+ 1515  node main.js 
+ 1516  git add .
+ 1517  git commit -m "kinézetKell"
+ 1518  git push
+ 1519  git checkout dani/1 
+ 1520  git merge dev 
+ 1521  git status
+ 1522  ssh-add ~/SSHKEY/key
+ 1523  cd Traffic/
+ 1524  node main.js 
+ 1525  node frontMap.js 
+ 1526  node main.js 
+ 1527  node frontMap.js 
+ 1528  node main.js 
+ 1529  ssh-add ~/SSHKEY/key
+ 1530  git status
+ 1531  git add .
+ 1532  git commit -m "frontMap"
+ 1533  git push
+ 1534  git checkout dev 
+ 1535  git push
+ 1536  git status
+ 1537  git merge dani/1 
+ 1538  git push
+ 1539  git checkout dani/1 
+ 1540  node main.js 
+ 1541  clear
+ 1542  node main.js 
+ 1543  node aaaaaaaaaaaaa.js 
+ 1544  cd Traffic/
+ 1545  node main.js 
+ 1546  git status
+ 1547  git add .
+ 1548  git commit -m "bugFixMovement"
+ 1549  git push
+ 1550  node aaaaaaaaaaaaa.js 
+ 1551  git checkout dev
+ 1552  git pull
+ 1553  git checkout dani/1 
+ 1554  git merge dev
+ 1555  code .
+ 1556  git merge dev
+ 1557  cd Traffic/
+ 1558  ssh-add ~/SSHKEY/key
+ 1559  git checkout dev 
+ 1560  git merge dev
+ 1561  git status
+ 1562  git add .
+ 1563  git checkout dev 
+ 1564  git pull
+ 1565  node main.js 
+ 1566  git add .
+ 1567  git commit -m "delete"
+ 1568  git push
+ 1569  node main.js 
+ 1570  git push
+ 1571  git add .
+ 1572  git commit -m "delete"
+ 1573  git push
+ 1574  node main.js 
+ 1575  git add .
+ 1576  git commit -m "unUndefinied"
+ 1577  git push
+ 1578  node main.js 
+ 1579  git pull
+ 1580  node main.js 
+ 1581  git push
+ 1582  git add .
+ 1583  git commit -m "nemVillog"
+ 1584  git push
+ 1585  node main.js 
+ 1586  cd Traffic/
+ 1587  node main.js 
+ 1588  cd T
+ 1589  cd Traffic/
+ 1590  node main.js 
+ 1591  node main.js ű
+ 1592  node main.js 
+ 1593  git push
+ 1594  git add .
+ 1595  git commit -m "gyorsulás"
+ 1596  git push
+ 1597  git status
+ 1598  git pull
+ 1599  git push
+ 1600  node main.js 
+ 1601  npm i
+ 1602  node main.js 
+ 1603  git add .
+ 1604  git commit -m "sebesség"
+ 1605  git push 
+ 1606  node main.js 
+ 1607  git push 
+ 1608  git add .
+ 1609  git commit -m "shorter"
+ 1610  git push 
+ 1611  sudo apt update
+ 1612  sudo apt upgrade
+ 1613  clear
+ 1614  cd Traffic/
+ 1615  node main.js 
+ 1616  git add .
+ 1617  git commit -m "gameovertext"
+ 1618  git push
+ 1619  ssh-add ~/SSHKEY/key
+ 1620  git push
+ 1621  cd Traffic/
+ 1622  node main.js 
+ 1623  ssh-add ~/SSHKEY/key
+ 1624  node main.js 
+ 1625  cd Traffic/
+ 1626  node main.js 
+ 1627  git status
+ 1628  git add .
+ 1629  git commit -m "demo"
+ 1630  git push
+ 1631  git checkout master
+ 1632  git merge dev
+ 1633  git push
+ 1634  node main.js 
+ 1635  clear
+ 1636  node main.js 
+ 1637  clear
+ 1638  node main.js 
+ 1639  clear
+ 1640  node main.js 
+ 1641  node main.js
+ 1642  clear
+ 1643  node main.js
+ 1644  clear
+ 1645  node main.js
+ 1646  clear
+ 1647  node main.js
+ 1648  clear
+ 1649  node main.js
+ 1650  cd Traffic/ 
+ 1651  node main.js 
+ 1652  ssh-add ~/SSHKEY/key
+ 1653  cd Traffic/
+ 1654  git status
+ 1655  git add .
+ 1656  git commit -m "bigmap"
+ 1657  git push
+ 1658  cd Traffic/
+ 1659  node main.js 
+ 1660  cd CodeWars/
+ 1661  code .
+ 1662  ssh-add ~/SSHKEY/key
+ 1663  cd Traffic/
+ 1664  code .
+ 1665  ssh-add ~/SSHKEY/key
+ 1666  javac Main.java 
+ 1667  ls -la
+ 1668  java Main 
+ 1669  ls
+ 1670  javac Main.java 
+ 1671  ls
+ 1672  java Main 
+ 1673  ssh-add ~/SSHKEY/key
+ 1674  rm Main.class 
+ 1675  java Main.java
+ 1676  javac Main.java 
+ 1677  java Main 
+ 1678  rm Main.class
+ 1679  java Main.java
+ 1680  rm Main.class 
+ 1681  java Main.java
+ 1682  cd javaGyakorlo/
+ 1683  code .
+ 1684  sudo apt update
+ 1685  sudo apt upgrade
+ 1686  cd ..
+ 1687  cd siteBuilding/
+ 1688  code .
+ 1689  cd siteBuilding/
+ 1690  code .
+ 1691  java DbGenerator.java
+ 1692  INSERT INTO users (email, fullname, password, role_id) VALUES ('tlololol@spam4.me', 'Kata', '', '');
+ 1693  INSERT INTO users (email, fullname, password, role_id) VALUES ('tomi@spam4.me', 'Istvan Pista', '', '');
+ 1694  INSERT INTO users (email, fullname, password, role_id) VALUES ('tbbbbbb@spam4.me', 'Kata', '', '');
+ 1695  INSERT INTO users (email, fullname, password, role_id) VALUES ('tomi@spam4.me', 'Istvan Pista', '', '');
+ 1696  INSERT INTO users (email, fullname, password, role_id) VALUES ('mari@spam4.me', 'hello', '', '');
+ 1697  INSERT INTO users (email, fullname, password, role_id) VALUES ('tlololol@spam4.me', 'ASD', '', '');
+ 1698  INSERT INTO users (email, fullname, password, role_id) VALUES ('mari@spam4.me', 'Armando', '', '');
+ 1699  INSERT INTO users (email, fullname, password, role_id) VALUES ('tomi@spam4.me', 'Geza Bela', '', '');
+ 1700  java DbGenerator.java
+ 1701  apt-get install postgres postgres-client
+ 1702  sudo apt-get install postgres postgres-client
+ 1703  sudo apt-get install postgresql postgres-client
+ 1704  sudo apt-get install postgresql postgresql-client
+ 1705  sudo service postgesql start
+ 1706  sudo service postgresql start
+ 1707  systemctl status postgresql
+ 1708  sudo apt -i
+ 1709  sudo apt install htop
+ 1710  htop
+ 1711  psql
+ 1712  sudo -i -u postgres
+ 1713  psql
+ 1714  service postgresql start
+ 1715  sudo service postgresql start
+ 1716  psql postgres
+ 1717  psql -h localhost -U postgres
+ 1718  sudo -i -u postgres
+ 1719  ssh-add ~/SSHKEY/key
+ 1720  java uniquenum.java
+ 1721  java Main.java
+ 1722  cd CodeWars/
+ 1723  code .
+ 1724  cd ..
+ 1725  cd javaGyakorlo/
+ 1726  code .
+ 1727  cd 2./
+ 1728  java Main.java
+ 1729  cd ..
+ 1730  cd 1./
+ 1731  java Main.java
+ 1732  cd ..
+ 1733  cd 2./
+ 1734  java Main.java
+ 1735  cd 2./
+ 1736  java Main.java
+ 1737  java Main.java asdd sadad asdasd asdsada
+ 1738  java Main.java 1 2 3 4 5
+ 1739  java Main.java 4 12 36
+ 1740  java Main.java 1 2 3 4 5
+ 1741  cd CodeWars/
+ 1742  code .
+ 1743  cd ..
+ 1744  cd siteBuilding/
+ 1745  code .
+ 1746  cd ..
+ 1747  cd javaGyakorlo/
+ 1748  code .
+ 1749  cd ..
+ 1750  cd siteBuilding/
+ 1751  code .
+ 1752  java Main.java
+ 1753  cd 2./
+ 1754  java Main.java
+ 1755  java Main.java 1 2 3 4 5
+ 1756  sudo apt update
+ 1757  sudo apt upgrade
+ 1758  ssh-add ~/SSHKEY/key
+ 1759  cd FLOW2019/
+ 1760  touch Linkek.txt
+ 1761  -ls
+ 1762  l
+ 1763  rm Linkek.txt 
+ 1764  cd 03.06./
+ 1765  touch Linkek.txt
+ 1766  cd ..
+ 1767  cd javaGyakorlo/
+ 1768  code .
+ 1769  cd ..
+ 1770  cd CodeWars/
+ 1771  code .
+ 1772  cd ..
+ 1773  mkdir Pizza
+ 1774  cd Pizza/
+ 1775  git init
+ 1776  git clone git@github.com:Juhi22/HtmlPractice.git
+ 1777  git branch
+ 1778  git status
+ 1779  cd ..
+ 1780  cd ~
+ 1781  git clone git@github.com:Juhi22/HtmlPractice.gitgit@github.com:Juhi22/HtmlPractice.git
+ 1782  ssh-add ~/SSHKEY/key
+ 1783  git clone git@github.com:Juhi22/HtmlPractice.gitgit@github.com:Juhi22/HtmlPractice.git
+ 1784  git@github.com:Juhi22/HtmlPractice.git
+ 1785  git clone git@github.com:Juhi22/HtmlPractice.git
+ 1786  git branch
+ 1787  git checkout
+ 1788  cd HtmlPractice/
+ 1789  git branch
+ 1790  git checkout develope
+ 1791  git checkout -b develope
+ 1792  git push origin develope
+ 1793  git status
+ 1794  git checkout -b mainpage
+ 1795  git push origin -u mainpage
+ 1796  git top
+ 1797  git log
+ 1798  cd ..
+ 1799  cd HtmlPractice/
+ 1800  code .
+ 1801  cd ..
+ 1802  cd siteBuilding/
+ 1803  code .
+ 1804  cd ..
+ 1805  cd HtmlPractice/
+ 1806  git status
+ 1807  git add .
+ 1808  git commit -m "mainPageStart"
+ 1809  cd ..
+ 1810  cd ~
+ 1811  cd HtmlPractice/
+ 1812  find 48202457-pizza-flat-icon-logo-template-pizza-food-silhouette-pizza-piece-logo-pizza-slice-logo-pizza-menu-ill.jpg
+ 1813  git status
+ 1814  git commit -m "headerFooterText"
+ 1815  git add .
+ 1816  git commit -m "headerFooterText"
+ 1817  git push
+ 1818  cd ..
+ 1819  cd CodeWars/
+ 1820  code .
+ 1821  cd javaGyakorlo/
+ 1822  code .
+ 1823  cd ..
+ 1824  cd FLOW2019/
+ 1825  mkdir 03.07.
+ 1826  cd 03.07./
+ 1827  touch Linkek.txt
+ 1828  cd ..
+ 1829  d ..
+ 1830  ssh-add ~/SSHKEY/key
+ 1831  clear
+ 1832  cat /etc/passwd
+ 1833  cd Letöltések/
+ 1834  chmod +x Visual_Paradigm_CE_15_2_20190301_Linux64.sh 
+ 1835  bash Visual_Paradigm_CE_15_2_20190301_Linux64.sh 
+ 1836  sudo -u postgres -i
+ 1837  psql -h 192.168.5.20 -U postgres
+ 1838  cd siteBuilding/
+ 1839  code .
+ 1840  cd ..
+ 1841  cd HtmlPractice/
+ 1842  code .
+ 1843  git status
+ 1844  git add .
+ 1845  git commit -m "mainFilled"
+ 1846  ssh-add ~/SSHKEY/key
+ 1847  git status
+ 1848  git push
+ 1849  git checkout develope 
+ 1850  it checkout -umenu
+ 1851  git checkout
+ 1852  git checkout -i menu
+ 1853  git checkout -b menu
+ 1854  git push -u origin menu
+ 1855  git checkout menu
+ 1856  code .
+ 1857  git checkout mainpage 
+ 1858  git checkout menu 
+ 1859  git add .
+ 1860  git commit -m "menuFilled"
+ 1861  git checkout develope 
+ 1862  git checkout -b order
+ 1863  git push -u origin order
+ 1864  git status
+ 1865  git add .
+ 1866  git commit -m "orderFilled"
+ 1867  git push
+ 1868  git checkout mainpage 
+ 1869  git add .
+ 1870  git commit -m "cssBegin"
+ 1871  git add . 
+ 1872  git status
+ 1873  git commit -m "css"
+ 1874  git push
+ 1875  psql -h 192.168.5.20 -U postgres
+ 1876  cd HtmlPractice/
+ 1877  code .
+ 1878  psql -h 192.168.5.20 -U postgres
+ 1879  cd ..
+ 1880  ssh-add ~/SSHKEY/key
+ 1881  git clone git@github.com:flowacademyhu/epsilon-pub-database.git
+ 1882  git status
+ 1883  cd epsilon-pub-database/
+ 1884  git status
+ 1885  git push
+ 1886  git add .
+ 1887  git commit -m "daniVoltam"
+ 1888  git push
+ 1889  \q
+ 1890  cd ..
+ 1891  psql -h 192.168.5.20 -U postgres
+ 1892  clear
+ 1893  psql -h 192.168.5.20 -U postgres
+ 1894  cd epsilon-pub-database/
+ 1895  git pull
+ 1896  psql -h 192.168.5.20 -U postgres
+ 1897  sudo apt update
+ 1898  sudo apt upgrade
+ 1899  clear
+ 1900  cd HtmlPractice/
+ 1901  ls
+ 1902  git status
+ 1903  mainPage.html
+ 1904  cat mainPage.html
+ 1905  run mainPage.html 
+ 1906  git checkout order
+ 1907  git add .
+ 1908  git commmit -m "main"
+ 1909  git commit -m "main"
+ 1910  git checkout order
+ 1911  git status
+ 1912  git branch
+ 1913  git checkout menu 
+ 1914  git checkout mainpage 
+ 1915  clear
+ 1916  sl
+ 1917  cd linux/
+ 1918  sh 1.sh 
+ 1919  sh 1.sh
+ 1920  sh 2.sh
+ 1921  touch tesztGyak.sh
+ 1922  mk tesztGyak.sh 
+ 1923  mc tesztGyak.sh
+ 1924  node tesztGyak.sh 
+ 1925  nano tesztGyak.sh 
+ 1926  cd linux/
+ 1927  sh tesztGyak.sh 
+ 1928  nano tesztGyak.sh 
+ 1929  sh tesztGyak.sh 
+ 1930  nano tesztGyak.sh 
+ 1931  sh tesztGyak.sh 
+ 1932  nano tesztGyak.sh 
+ 1933  sh tesztGyak.sh 
+ 1934  nano tesztGyak.sh 
+ 1935  sh tesztGyak.sh 
+ 1936  nano tesztGyak.sh 
+ 1937  sh tesztGyak.sh 
+ 1938  nano tesztGyak.sh 
+ 1939  sh tesztGyak.sh 
+ 1940  nano tesztGyak.sh 
+ 1941  sh tesztGyak.sh 
+ 1942  nano tesztGyak.sh 
+ 1943  sh tesztGyak.sh 
+ 1944  nano tesztGyak.sh 
+ 1945  sh tesztGyak.sh 
+ 1946  nano tesztGyak.sh 
+ 1947  sh tesztGyak.sh 
+ 1948  nano tesztGyak.sh 
+ 1949  sh tesztGyak.sh 
+ 1950  nano tesztGyak.sh 
+ 1951  sh tesztGyak.sh 
+ 1952  nano tesztGyak.sh 
+ 1953  sh tesztGyak.sh 
+ 1954  nano tesztGyak.sh 
+ 1955  sh tesztGyak.sh 
+ 1956  nano tesztGyak.sh 
+ 1957  sh tesztGyak.sh 
+ 1958  nano tesztGyak.sh 
+ 1959  sh tesztGyak.sh 
+ 1960  code .
+ 1961  cd javaGyakorlo/
+ 1962  code .
+ 1963  ls
+ 1964  grep As
+ 1965  egrep As*
+ 1966  egrep man
+ 1967  egrep -man
+ 1968  man egrep
+ 1969  clear
+ 1970  cd FLOW2019/
+ 1971  cd 02.01./
+ 1972  ls
+ 1973  cat grepTest_txt.txt 
+ 1974  egrep alma grepTest_txt.txt 
+ 1975  egrep asd grepTest_txt.txt 
+ 1976  egrep asdsad grepTest_txt.txt 
+ 1977  man wc
+ 1978  wc grepTest_txt.txt 
+ 1979  man wc
+ 1980  wc -l grepTest_txt.txt 
+ 1981  man wc
+ 1982  cd HtmlPractice/
+ 1983  git status
+ 1984  code .
+ 1985  git checkout menu 
+ 1986  git add .
+ 1987  git commit -m "css"
+ 1988  git checkout order 
+ 1989  git add .
+ 1990  git commit -m "css"
+ 1991  git checkout mainpage 
+ 1992  git status
+ 1993  git add .
+ 1994  git commit -m "css"
+ 1995  cd jsGyakorlo/
+ 1996  code .
+ 1997  ls
+ 1998  cd javaGyakorlo/
+ 1999  code .
+ 2000  ssh-add ~/SSHKEY/key
+ 2001  cd Traffic/
+ 2002  code .
+ 2003  cd ..
+ 2004  pwd
+ 2005  touch asd.sh
+ 2006  nano asd.sh
+ 2007  sh asd.sh 
+ 2008  nano asd.sh 
+ 2009  sh asd.sh 
+ 2010  nano asd.sh 
+ 2011  sh asd.sh 
+ 2012  nano asd.sh 
+ 2013  sh asd.sh 
+ 2014  nano asd.sh 
+ 2015  sh asd.sh 
+ 2016  nano asd.sh 
+ 2017  sh asd.sh 
+ 2018  nano asd.sh 
+ 2019  sh asd.sh 
+ 2020  nano asd.sh 
+ 2021  sh asd.sh 
+ 2022  nano asd.sh 
+ 2023  sh asd.sh 
+ 2024  nano asd.sh 
+ 2025  sh asd.sh 
+ 2026  nano asd.sh 
+ 2027  sh asd.sh 
+ 2028  nano asd.sh 
+ 2029  sh asd.sh 
+ 2030  nano asd.sh 
+ 2031  sh asd.sh 
+ 2032  nano asd.sh 
+ 2033  sh asd.sh 
+ 2034  nano asd.sh 
+ 2035  sh asd.sh 
+ 2036  nano asd.sh 
+ 2037  bash asd.sh
+ 2038  nano asd.sh 
+ 2039  ssh-add ~/SSHKEY/key
+ 2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
  2041  git checkout -b dev
  2042  cd 1.-szakaszzaro-teszt/
  2043  git checkout -b dev
@@ -41,4 +978,23 @@
  2080  touch history.log
  2081  ls
  2082  history
-
+ 2083  2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
+ 2084  cat .gitignore 
+ 2085  echo node_modules/ > .gitignore
+ 2086  cat .gitignore 
+ 2087  cat .*.env >> .gitignore 
+ 2088  echo .*.env >> .gitignore 
+ 2089  cat .gitignore 
+ 2090  git add .
+ 2091  git commit -m "teszt3"
+ 2092  git push
+ 2093  git push -u origin teszt
+ 2094  git checkout dev
+ 2095  git merge teszt 
+ 2096  git status
+ 2097  git push
+ 2098  git push -u origin dev
+ 2099  hitory > history.log
+ 2100  history > history.log
+ 2101  git status
+ 2102  history 2040 > history.log
