@@ -1,0 +1,44 @@
+2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
+ 2041  git checkout -b dev
+ 2042  cd 1.-szakaszzaro-teszt/
+ 2043  git checkout -b dev
+ 2044  git checkout -b teszt
+ 2045  echo node_modules .*.env>> .gitignore
+ 2046  echo node_modules/ .*.env>> .gitignore
+ 2047  ls
+ 2048  ls -a
+ 2049  cat .gitignore
+ 2050  echo node_modules/ > .gitignore
+ 2051  cat .gitignore
+ 2052  echo .*.env > .gitignore
+ 2053  cat .gitignore
+ 2054  echo node_modules/ >> .gitignore
+ 2055  cat .gitignore
+ 2056  touch fibonacci.js
+ 2057  touch switch.js
+ 2058  touch unio.js
+ 2059  git status
+ 2060  git add .
+ 2061  git commit -m "test"
+ 2062  npm init
+ 2063  npm install
+ 2064  git status
+ 2065  git add .
+ 2066  git commit -m "teszt2"
+ 2067  history
+ 2068  2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
+ 2069  echo 2040  git clone git@github.com:Juhi22/1.-szakaszzaro-teszt.git
+ 2070  history
+ 2071  ls -a
+ 2072  cat .gitignore
+ 2073  code .
+ 2074  echo node_modules/ > .gitignore
+ 2075  cat .gitignore
+ 2076  echo .*.env >> .gitignore
+ 2077  cat .gitignore
+ 2078  man history
+ 2079  history 2040
+ 2080  touch history.log
+ 2081  ls
+ 2082  history
+
